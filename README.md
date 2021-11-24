@@ -9,4 +9,4 @@
 - 📫 How to reach me: etyrabeya01@gmail.com, [Linkedin-rabeyaEty](https://www.linkedin.com/in/rabeya-aktar-ety-143a77218/).
 - ☕ I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-***## ![enter image description here](https://github-readme-stats.vercel.app/api?username=RabeyaEty01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+*** ![enter image description here](https://github-readme-stats.vercel.app/api?username=RabeyaEty01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
