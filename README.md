@@ -1,4 +1,5 @@
-***## Hey there, I'm Rabeya Aktar Ety.*** 👋
+## Hey there, 
+## I'm Rabeya Aktar Ety. 👋
 
 *I am a fresh graduate CSE student.I have performed my educational proficiency at the [**American International University-Bangladesh(AIUB)**, Dhaka, Bangladesh](https://www.aiub.edu/).*
 
